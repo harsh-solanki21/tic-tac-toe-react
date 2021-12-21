@@ -1,3 +1,14 @@
+# Tic Tac Toe 
+- Tic Tac Toe is the game that everybody played. We used to play it on the backside of the notebook.
+- So I decided to make this game in React JS.
+- This is a 2 Player Game right now but maybe in the future I upgrade this project and make it also a 1 player game and opponent will be AI.
+
+# Interface
+![tictactoe](https://user-images.githubusercontent.com/52111635/146981691-0ab99396-ac1d-4e51-ba80-522a54b84db7.PNG)
+
+## Working demo link 
+[YouTube](https://www.youtube.com/watch?v=Lvg_GR6JFpQ)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
